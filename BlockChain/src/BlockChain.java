@@ -1,7 +1,7 @@
-// Block Chain should maintain only limited block nodes to satisfy the functions
-// You should not have all the blocks added to the block chain in memory 
-// as it would cause a memory overflow.
-
+/**
+ * @author Oleg Kubrakov
+ * Note: implementation lacks cut-off and tree feature.
+ **/
 import java.util.ArrayList;
 
 public class BlockChain {
