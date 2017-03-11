@@ -10,11 +10,10 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/jar" />
+          <root url="jar://$MODULE_DIR$/jar/bcprov-jdk15on-156.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
-        <jarDirectory url="file://$MODULE_DIR$/jar" recursive="false" />
       </library>
     </orderEntry>
   </component>
